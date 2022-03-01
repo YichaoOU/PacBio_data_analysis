@@ -1,0 +1,8 @@
+setup.py
+source/svnn
+svnn.egg-info/PKG-INFO
+svnn.egg-info/SOURCES.txt
+svnn.egg-info/dependency_links.txt
+svnn.egg-info/not-zip-safe
+svnn.egg-info/requires.txt
+svnn.egg-info/top_level.txt
